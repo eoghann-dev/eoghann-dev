@@ -4,8 +4,6 @@
 
 computer science student building things, breaking things, and learning as I go.
 
-currently doing **100 Days of Building** to become a better software engineer and actually finish the things I start.
-
 ## currently
 
 - building web projects
