@@ -1,7 +1,5 @@
 # hi, i'm owen 👋
 
-> gregor samsa was a bug. so is my code.
-
 computer science student building things, breaking things, and learning as I go.
 
 ## currently
