@@ -1,106 +1,108 @@
+<!-- BANNER: uncomment and replace with your gif -->
+<!-- <p align="center"><img src="banner.gif" width="100%" /></p> -->
 
-<h1 align="center">Owen Casabuena</h1>
+<h1 align="center">OWEN CASABUENA</h1>
 
 <p align="center">
-  <samp>computer science student · aspiring software developer</samp>
+  <samp>computer science student / aspiring software developer</samp>
 </p>
 
 <p align="center">
-  building things, breaking things, and learning
-  how to make them better.
+  <samp>I build web and mobile apps that solve real problems.</samp>
 </p>
 
 <p align="center">
-  <a href="https://github.com/eoghann-dev">
-    <img src="https://img.shields.io/github/followers/eoghann-dev?style=flat-square&color=999999&label=followers" />
-  </a>
-  <img src="https://img.shields.io/badge/status-actively%20learning-999999?style=flat-square" />
+  <a href="#projects"><samp>projects</samp></a> &nbsp;/&nbsp;
+  <a href="#stack"><samp>stack</samp></a> &nbsp;/&nbsp;
+  <a href="#contact"><samp>contact</samp></a>
 </p>
 
----
+<br/>
 
-### `01` / about me
+## projects
 
-Hello, I'm Owen.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Stokya</h3>
+      <samp>inventory and sales management</samp>
+      <br/><br/>
+      Helps small businesses track stock and record sales from their phone.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Flutter-111111?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Firebase-111111?style=flat-square&logo=firebase&logoColor=white" />
+      <br/><br/>
+      <a href="https://github.com/eoghann-dev/REPO-NAME"><samp>view repo →</samp></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>MomEase</h3>
+      <samp>postpartum companion app</samp>
+      <br/><br/>
+      A mobile app that supports mothers through the postpartum period.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Flutter-111111?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Dart-111111?style=flat-square&logo=dart&logoColor=white" />
+      <br/><br/>
+      <a href="https://github.com/eoghann-dev/REPO-NAME"><samp>view repo →</samp></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>GymRat</h3>
+      <samp>workout routines and timer</samp>
+      <br/><br/>
+      Build routines and run them with a built-in rest and set timer.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Spring_Boot-111111?style=flat-square&logo=springboot&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=white" />
+      <br/><br/>
+      <a href="https://github.com/eoghann-dev/REPO-NAME"><samp>view repo →</samp></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Next up</h3>
+      <samp>in progress</samp>
+      <br/><br/>
+      <!-- swap in your CV Builder or another project here -->
+      Full-stack project from The Odin Project curriculum.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express-111111?style=flat-square&logo=express&logoColor=white" />
+      <br/><br/>
+      <a href="https://github.com/eoghann-dev?tab=repositories"><samp>all repositories →</samp></a>
+    </td>
+  </tr>
+</table>
 
-A computer science student interested in building
-software that solves real problems.
+<br/>
 
-I enjoy exploring different areas of development,
-from web applications to mobile software, while
-learning the engineering principles behind them.
+## stack
 
-- currently studying computer science
-- interested in web and mobile development
-- learning by building and experimenting
-- exploring Linux and open-source software
-
-### `02` / currently
-
-- working through The Odin Project
-- improving my JavaScript and Node.js skills
-- exploring backend development and software architecture
-- learning more about Linux and developer tools
-
-### `03` / technologies
-
-**languages & frameworks**
-
-![HTML5](https://img.shields.io/badge/HTML5-FFFFFF?style=flat-square&logo=html5&logoColor=555555)
-![CSS3](https://img.shields.io/badge/CSS3-FFFFFF?style=flat-square&logo=css3&logoColor=555555)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFFFFF?style=flat-square&logo=javascript&logoColor=555555)
-![Node.js](https://img.shields.io/badge/Node.js-FFFFFF?style=flat-square&logo=nodedotjs&logoColor=555555)
-![Express](https://img.shields.io/badge/Express-FFFFFF?style=flat-square&logo=express&logoColor=555555)
-![Dart](https://img.shields.io/badge/Dart-FFFFFF?style=flat-square&logo=dart&logoColor=555555)
-![Flutter](https://img.shields.io/badge/Flutter-FFFFFF?style=flat-square&logo=flutter&logoColor=555555)
-![Python](https://img.shields.io/badge/Python-FFFFFF?style=flat-square&logo=python&logoColor=555555)
-![Flask](https://img.shields.io/badge/Flask-FFFFFF?style=flat-square&logo=flask&logoColor=555555)
-![C](https://img.shields.io/badge/C-FFFFFF?style=flat-square&logo=c&logoColor=555555)
-![C++](https://img.shields.io/badge/C++-FFFFFF?style=flat-square&logo=cplusplus&logoColor=555555)
-![Spring](https://img.shields.io/badge/Spring-FFFFFF?style=flat-square&logo=spring&logoColor=555555)
-
-### `04` / selected projects
-
-| Project | Description |
+| | |
 |:--|:--|
-| **GymRat** | Workout routine and timer application built with Spring Boot. |
-| **MomEase** | Postpartum mothers' companion app built with Flutter. |
-| **Stokya** | Inventory and sales management app using Flutter and Firebase. |
+| **languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-111111?style=flat-square&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-111111?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-111111?style=flat-square&logo=cplusplus&logoColor=white) |
+| **frontend** | ![HTML5](https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=white) |
+| **mobile** | ![Flutter](https://img.shields.io/badge/Flutter-111111?style=flat-square&logo=flutter&logoColor=white) |
+| **backend** | ![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-111111?style=flat-square&logo=express&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-111111?style=flat-square&logo=springboot&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-111111?style=flat-square&logo=flask&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-111111?style=flat-square&logo=firebase&logoColor=white) |
+| **tools** | ![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=white) ![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white) |
 
-More experiments and projects can be found in my repositories.
+<br/>
 
-### `05` / github activity
+## now
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=eoghann-dev&theme=graywhite&hide_border=true&include_all_commits=false&count_private=false" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=eoghann-dev&theme=graywhite&hide_border=true" />
-</p>
+<samp>working through The Odin Project / deepening Node.js and backend design / reading Kafka and Dostoevsky</samp>
 
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=eoghann-dev&theme=graywhite&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
-</p>
+<br/>
 
-### `06` / beyond the terminal
+## contact
 
-**currently reading**
-- The Metamorphosis — Franz Kafka
-- Crime and Punishment — Fyodor Dostoevsky
-
-**interests**
-- Linux and open-source software
-- Software engineering
-- Gaming and world-building
-- Literature and philosophy
+<!-- replace with your real links -->
+<samp>[email](mailto:YOUR_EMAIL) / [linkedin](https://linkedin.com/in/YOUR_HANDLE)</samp>
 
 ---
 
 <p align="center">
   <samp>
-    "It is not enough to be busy; so are the ants.
-    The question is: What are we busy about?"
+    "A book must be the axe for the frozen sea within us."<br/>
+    — Franz Kafka
   </samp>
-</p>
-
-<p align="center">
-  <sub>designed with curiosity. maintained with caffeine.</sub>
 </p>
