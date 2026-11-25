@@ -13,7 +13,7 @@ C A S A B U E N A
 > i build web and mobile apps that solve real problems.
 ```
 
-## [ 00 — CONTACTS ]
+## [ 01 — CONTACTS ]
 ```text
 > open to internships and junior roles.
 ```
@@ -22,7 +22,7 @@ C A S A B U E N A
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/owen-casabuena-747181311/)
 [![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/eoghann-dev)
 
-## [ 01 — PROJECTS ]
+## [ 02 — PROJECTS ]
 
 <table>
   <tr>
@@ -75,7 +75,7 @@ C A S A B U E N A
   </tr>
 </table>
 
-## [ 02 — TECH STACK ]
+## [ 03 — TECH STACK ]
 
 | | |
 |:--|:--|
