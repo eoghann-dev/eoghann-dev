@@ -1,5 +1,5 @@
-<!-- BANNER: uncomment and replace with your gif -->
-<!-- <p align="center"><img src="banner.gif" width="100%" /></p> -->
+
+<p align="center"><img src="banner.jpeg" width="100%" /></p>
 
 <h1 align="center">OWEN CASABUENA</h1>
 
