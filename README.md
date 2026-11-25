@@ -65,7 +65,7 @@ C A S A B U E N A
       <a href="https://github.com/eoghann-dev/GymRat"><samp>view repo →</samp></a>
     </td>
     <td width="50%" valign="top">
-      <h3>handAbility</h3>
+      <h3>HandAbility</h3>
       <samp>hand rehabilitation</samp>
       <br/><br/>
       A web app that uses hand tracking to guide patients through hand exercises as part of physical therapy.
